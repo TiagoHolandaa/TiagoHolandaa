@@ -5,8 +5,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagoholandaa&bg_color=000&color=9745F5FF&line=9745F5FF&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</br>
 
 <div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TiagoHolandaa&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false" alt="Tiago Holanda github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoHolandaa&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Tiago Holanda github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TiagoHolandaa&theme=midnight-purple&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=false" alt="Tiago Holanda github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoHolandaa&theme=midnight-purple&bg_color=0d1117&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Tiago Holanda github stats" />
 </div></br>
 
 <div align="center"> 
