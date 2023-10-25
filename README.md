@@ -1,30 +1,27 @@
-<h1> Hi! My name is Tiago. </h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=7700FF&height=120&section=header)
 
-<div>
-  <a href="https://github.com/TiagoHolandaa">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=TiagoHolandaa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoHolandaa&layout=compact&langs_count=7&theme=react" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745F5FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Tiago+Holanda;I'm+19+years+old;I'm+from+Brazil;Studying+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagoholandaa&bg_color=000&color=9745F5FF&line=9745F5FF&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoHolandaa&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)</br>
+![Anurag's GitHub stat](https://github-readme-streak-stats.herokuapp.com/?user=TiagoHolandaa&theme=midnight-purple&hide_border=true)
+  ![Anurag's GitHub stat](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoHolandaa&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</br>
+  ![trophy](https://github-profile-trophy.vercel.app/?username=TiagoHolandaa&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 </div>
- <br>
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- 
-    
-</div>
-  <br>
-  <a href="https://www.instagram.com/t_iagoholanda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
- 
-  ![Snake animation](https://github.com/TiagoHolandaa/TiagoHolandaa/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=TiagoHolandaa&repo=TiagoHolandaa&theme=react)](https://github.com/TiagoHolandaa/TiagoHolandaa)
+
+### Main skills:
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+### Studying in this moment:
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7700FF&height=120&section=footer)
