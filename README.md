@@ -10,7 +10,7 @@
 </div></br>
 
 <div align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=TiagoHolandaa&theme=discord&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TiagoHolandaa&theme=discord&no-frame=false&no-bg=true&margin-w=4&hide_border=true" />
   </br></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoHolandaa&theme=midnight-purple&hide_border=true" alt="Tiago Holanda github stats" />
 </div>
